@@ -1,2 +1,2 @@
-# Midi-Keyboard
-Github repo for Half-life week 3. Building a MIDI keyboard.
+# Midi Keyboard
+GitHub repo for Half-Life Week 3 starter project. Building a MIDI keyboard.
