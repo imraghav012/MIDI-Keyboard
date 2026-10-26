@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmvn8ohgx00bu01q8jidrmnhh). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Week 3 Half-Life. MIDI keyboard starter project.
+> Week 3 Half-Life. MIDI keyboard starter project. Built in KiCad. Using 1 instead of 3 switches, and will control the LEDs by scrolling through all the combinations. I also added trapezoidal capacitive touch keys.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
