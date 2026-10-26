@@ -597,7 +597,7 @@
 	(footprint "raghav:Capacitive Keys"
 		(layer "F.Cu")
 		(uuid "16460f8a-e692-4e49-b01c-5c327544d4df")
-		(at 127.25 103)
+		(at 127 103)
 		(property "Reference" "J1"
 			(at 13.75 -6 0)
 			(unlocked yes)
@@ -5729,7 +5729,7 @@
 	)
 	(gr_rect
 		(start 128 69)
-		(end 229 145)
+		(end 228 145)
 		(radius 3)
 		(stroke
 			(width 0.05)
@@ -6758,15 +6758,15 @@
 		(uuid "ad564524-6635-465a-b59c-0864983e9966")
 	)
 	(segment
-		(start 228.2 82)
+		(start 227 82)
 		(end 183 82)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "ebd1c26a-e979-4aa0-bf28-57df02db1945")
+		(uuid "40eeea49-3dcc-4f59-9163-08b414223faf")
 	)
 	(via
-		(at 228.2 82)
+		(at 227 82)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -6822,12 +6822,12 @@
 		(uuid "4676617a-09be-4290-985b-8d6d16931ce2")
 	)
 	(segment
-		(start 228.4 83.6)
-		(end 228.4 82)
+		(start 225 87)
+		(end 227 85)
 		(width 0.2)
 		(layer "B.Cu")
 		(net "+5V")
-		(uuid "53decea0-ff18-41bb-be60-d1fc675fe616")
+		(uuid "7dbd45a5-62a3-4521-a946-2fdbb3d3f023")
 	)
 	(segment
 		(start 131.46 77)
@@ -6838,12 +6838,12 @@
 		(uuid "91cbd4c3-c874-4a84-96d8-9032e3af4eee")
 	)
 	(segment
-		(start 225 87)
-		(end 228.4 83.6)
+		(start 227 85)
+		(end 227 82)
 		(width 0.2)
 		(layer "B.Cu")
 		(net "+5V")
-		(uuid "9d60f9c4-2e8b-4f62-aee6-2c514fa66efd")
+		(uuid "92c7068b-fc27-46c3-8335-05eafddf8274")
 	)
 	(segment
 		(start 180 82)
@@ -6876,14 +6876,6 @@
 		(layer "B.Cu")
 		(net "+5V")
 		(uuid "f05ba949-6201-4c03-822c-6889adbb4b19")
-	)
-	(segment
-		(start 228.4 82)
-		(end 228.2 82)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "+5V")
-		(uuid "f469d191-91dd-4220-93d1-7f1b8e7b8976")
 	)
 	(segment
 		(start 161 78)
